@@ -1,0 +1,9 @@
+[submodule "roles/ansible-role_nginx"]
+	path = roles/ansible-role_nginx
+	url = https://github.com/eazytrainingfr/ansible-role_nginx.git
+[submodule "roles/nginx"]
+	path = roles/nginx
+	url = https://github.com/eazytrainingfr/ansible-role_nginx.git
+[submodule "roles/webapp"]
+	path = roles/webapp
+	url = https://github.com/eazytrainingfr/ansible-role_webapp.git
